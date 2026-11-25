@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "9a51a2e9-4dc4-4ae0-b96d-306dac0ce284",
+  "status": "current",
+  "command": "deliver",
+  "type": "workflow",
+  "input": "/home/roberto/git/satelites/backend/wGeneraQR/.archify/workflow-generacion-qr-pagos-20261125-160748/candidate.json",
+  "output": "/home/roberto/git/satelites/backend/wGeneraQR/.archify/workflow-generacion-qr-pagos-20261125-160748/generacion-qr-pagos.html",
+  "specification": {
+    "sha256": "1bc26acdf1f266e06c36fa0fdd1536c66e6d179c72a118c209c275a9ccbb0bfd",
+    "bytes": 36921
+  },
+  "artifact": {
+    "sha256": "5e1358ff9d56ddf04ff9a70fe9da7b685f3702794bea2642ef3b7865f7552cc7",
+    "bytes": 770668
+  }
+}
